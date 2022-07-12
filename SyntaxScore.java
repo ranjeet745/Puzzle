@@ -21,7 +21,7 @@ public static void main(String[] args) {
    scoreMap.put(')', 3);
    scoreMap.put(']', 57);
    scoreMap.put('}', 1197);
-   scoreMap.put('>', 25137);
+   scoreMap.put('>', 251371);
 
 
    Stack<Character> stack = new Stack<>();
